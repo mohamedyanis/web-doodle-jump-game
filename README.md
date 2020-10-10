@@ -26,7 +26,7 @@ Home
 * Browser like Chrome
 
 ## How To Use It
-1. Install this repository, click <a href="https://github.com/mohamedyanis/web-snake-game/archive/master.zip"> here </a> to install it.
+1. Install this repository, click <a href="https://github.com/mohamedyanis/web-doodle-jump-game/archive/master.zip"> here </a> to install it.
 2. Extract the folder
 3. Run the ```index.html``` file
 
